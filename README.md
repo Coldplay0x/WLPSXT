@@ -1,4 +1,4 @@
-﻿# BOS物流管理功能
+﻿# BOS物流管理功能 QQ群：807661097
 
 ### 开发环境： eclipse+maven+svn+powerdesigner
 
@@ -26,6 +26,6 @@
 
 
 
-QQ群：807661097
+
 
 
